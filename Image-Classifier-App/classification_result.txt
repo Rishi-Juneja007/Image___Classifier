@@ -1,0 +1,5 @@
+Image Classification Result
+----------------------------
+Ibizan_hound: 40.71%
+Saluki: 15.98%
+whippet: 3.46%
