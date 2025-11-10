@@ -1,6 +1,7 @@
-streamlit
-opencv-python
-tensorflow
-numpy
+# requirements.txt
+opencv-python-headless==4.7.0.72
+numpy<2.0
+tensorflow==2.15.0
+streamlit==1.36.0
 matplotlib
-Pillow
+pillow
